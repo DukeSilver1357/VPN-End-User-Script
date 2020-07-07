@@ -1,4 +1,4 @@
-
+#Adds an L2TP VPN connection.
 
 function Add-Remotesetup {
 	Clear-Host
