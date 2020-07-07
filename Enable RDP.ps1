@@ -1,3 +1,5 @@
+#To be run on the destination computer. Adds the specified user the the Remote Desktop Users group and makes sure the firewall doesn't get in the way.
+
 [string]$Username =  Read-Host -Prompt 'User Principle Name'
 
 # Enable Remote Desktop
