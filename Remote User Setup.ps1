@@ -1,4 +1,4 @@
-
+#Adds L2TP VPN Connection and adds an RDP Link on the users desktop with the IP and Username already saved.
 
 function Remote-User {
 	cls
