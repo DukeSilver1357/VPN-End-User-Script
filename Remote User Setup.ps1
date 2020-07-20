@@ -32,8 +32,6 @@ function Remote-User {
 	#Creates an RDP Link with the address of the comptuer the user will be remoting into and puts it on the public desktop.
 	 echo "screen mode id:i:2
 		use multimon:i:0
-		desktopwidth:i:1920
-		desktopheight:i:1200
 		session bpp:i:32
 		winposstr:s:0,1,0,216,642,697
 		compression:i:1
